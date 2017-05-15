@@ -31,7 +31,7 @@ p {color: black;}
     background-repeat: no-repeat;
     background-size: cover;}
 #thisone { color: black   ;  }
-#middle {height:50%;text-align: center; background-color: white; width: 70% ; }
+#middle {height:1000px;text-align: center; background-color: white;  }
 ul {list-style-position: inside;}
  img {width: 20%; height:20%;   border-color: black; }
 	 h1 {color: black; font-family: times; }
