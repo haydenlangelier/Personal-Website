@@ -51,17 +51,21 @@ ul {list-style-position: inside;}
 	 @media only screen and (max-device-width: 900px) {
      body {
           padding: 20px !important;
+
      }
     .parallax {
           
           height: 0%;
+          
      }
      #middle {
-          font-size: 40px !important; margin-right: 0px; margin-left: 0px;
+          font-size: 40px !important; margin-right: 0px; margin-left: 0px; 
      }
      #top{
           font-size: 26px !important;
      }
+
+
     
 }
   
