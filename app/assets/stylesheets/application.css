@@ -26,18 +26,19 @@ p {color: black;}
 .gold { color: black; }
 .silver {color: black;}
 .bronze{color: black;}
-.parallax {background-image: url(https://www.discotech.me/wp-content/uploads/2016/11/San-Francisco.jpg); height: 70%; background-attachment: fixed;
+.parallax {background-image: url(https://www.discotech.me/wp-content/uploads/2016/11/San-Francisco.jpg);  height: 70%; background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;}
 #thisone { color: black   ;  }
-#middle {height:840px;text-align: center; background-color: white; margin-left: 10%; margin-right: 10%; }
+#middle {height:840px;text-align: center; background-color: white; margin-left: 15%; margin-right: 15%; }
 ul {list-style-position: inside;}
  img {width: 20%; height:20%;   border-color: black; }
 	 h1 {color: black; font-family: times; }
 	 h2 {color: black; font-size: 1.5em;}
 	 h4 { color:black; }
 	 body,html { height: 100%; font-family: "Permanent Marker";}   
+	 
 
 	 @media screen and (max-width: 768px) {
   body {
