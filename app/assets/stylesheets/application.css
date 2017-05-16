@@ -31,16 +31,20 @@ p {color: black;}
     background-repeat: no-repeat;
     background-size: cover;}
 #thisone { color: black   ;  }
-#middle {height:760px;text-align: center; background-color: white; margin-left: 10%; margin-right: 10%; }
+#middle {height:840px;text-align: center; background-color: white; margin-left: 10%; margin-right: 10%; }
 ul {list-style-position: inside;}
  img {width: 20%; height:20%;   border-color: black; }
 	 h1 {color: black; font-family: times; }
 	 h2 {color: black; font-size: 1.5em;}
 	 h4 { color:black; }
-	 body,html { height: 100%; font-family: "Permanent Marker";
-        
-	 	
-	 	 }   
+	 body,html { height: 100%; font-family: "Permanent Marker";}   
+
+	 @media screen and (max-width: 768px) {
+  body {
+    font-size: 2em;
+  }
+  
+}
 
 
 
